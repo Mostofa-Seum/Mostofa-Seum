@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Mostofa!&fontSize=40&fontAlignY=40&desc=Web%20Developer%20|%20AI%20Researcher%20|%20Network%20Enthusiast&descAlignY=65&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mostofa%20Seum&fontSize=30&fontAlignY=40&desc=Web%20Developer%20|%20AI%20Researcher&descAlignY=65&descAlign=50" alt="Header" />
 </div>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Web+Applications;Exploring+AI+%26+Machine+Learning;Configuring+Networks;Crafting+Code+with+Passion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Web+Applications;Exploring+AI+%26+Machine+Learning;Configuring+Networks;Crafting+Code+with+Passion" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -17,12 +17,12 @@
 ---
 
 ### 👨‍💻 About Me
-I am a passionate technology enthusiast with a deep interest in the intersection of **Web Development**, **Database Management**, and **Artificial Intelligence**. I love building systems that solve real-world problems, from university grading platforms to predictive health models.
+I am a passionate technology enthusiast with a deep interest in the intersection of **Web Development**, **Database Management**, and **Artificial Intelligence**. I love building systems that solve real-world problems.
 
-- 🔭 I’m currently working on **RateYourGrader**, a university professor review system.
-- 🌱 I’m currently exploring **Machine Learning & IoT** for thesis research.
-- 👯 I’m looking to collaborate on **AI-driven web applications**.
-- 💬 Ask me about **PHP, Oracle PL/SQL, and Network Topologies**.
+- 🔭 I’m currently working on **RateYourGrader**.
+- 🌱 I’m currently exploring **Machine Learning & IoT**.
+- 👯 I’m looking to collaborate on **AI-driven web apps**.
+- 💬 Ask me about **PHP, Oracle PL/SQL, and Networks**.
 
 ---
 
@@ -44,8 +44,7 @@ I am a passionate technology enthusiast with a deep interest in the intersection
   <br />
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=iot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 
 </div>
 
@@ -53,18 +52,22 @@ I am a passionate technology enthusiast with a deep interest in the intersection
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **RateYourGrader** | A comprehensive web-based system for reviewing university professors and grading. | `PHP` `JS` `MySQL` `HTML` |
-| **Tobacco Harm AI** | A research initiative using Machine Learning to predict health risks in Dhaka hospitals. | `Python` `ML` `AI` |
-| **Network Sims** | Complex network topology configurations and collision domain analysis. | `Cisco Packet Tracer` |
+| **RateYourGrader** | University professor review system. | `PHP` `MySQL` |
+| **Tobacco Harm AI** | ML prediction for health risks. | `Python` `AI` |
+| **Network Sims** | Topology configurations. | `Cisco` |
 
 ---
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostofa-Seum&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostofa-Seum&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Languages" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mostofa-Seum&show_icons=true&theme=dark" height="150" alt="Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostofa-Seum&layout=compact&theme=dark" height="150" alt="Languages" />
+  </p>
 </div>
 
 <br/>
