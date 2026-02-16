@@ -21,7 +21,7 @@ I am a passionate technology enthusiast with a deep interest in the intersection
 
 - 🔭 I’m currently working on **RateYourGrader**, a university professor review system.
 - 🚀 I’m currently exploring **NestJS and .NET Core**.
-- 🌱 I’m currently exploring **Machine Learning & IoT** for thesis research.
+- 🌱 I’m currently learning **Machine Learning & Agentic AI** for thesis research.
 
 ---
 
