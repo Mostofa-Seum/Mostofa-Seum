@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Mostofa%20Seum!&fontSize=45&fontAlignY=40&desc=Aspiring%20Web%20Developer%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=65&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Mostofa%20Seum!&fontSize=45&fontAlignY=40&desc=Aspiring%20Web%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=65&descAlign=50" alt="Header" />
 </div>
+
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Web+Applications;Exploring+AI+%26+Machine+Learning;Crafting+Code+with+Passion" alt="Typing SVG" />
@@ -45,10 +46,12 @@ I am a passionate technology enthusiast with a deep interest in the intersection
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
   <br />
   
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=iot&logoColor=white" />
 
