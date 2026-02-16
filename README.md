@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Web+Applications;Exploring+AI+%26+Machine+Learning;Configuring+Networks;Crafting+Code+with+Passion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Web+Applications;Exploring+AI+%26+Machine+Learning;Crafting+Code+with+Passion" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -21,7 +21,7 @@ I am a passionate technology enthusiast with a deep interest in the intersection
 
 - 🔭 I’m currently working on **RateYourGrader**, a university professor review system.
 - 🌱 I’m currently exploring **Machine Learning & IoT** for thesis research.
-- 👯 I’m looking to collaborate on **AI-driven web applications**.
+- 🚀 I’m currently exploring **NestJS and .NET Core**.
 - 💬 Ask me about **PHP, Oracle PL/SQL, and Network Topologies**.
 
 ---
@@ -34,16 +34,25 @@ I am a passionate technology enthusiast with a deep interest in the intersection
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
   <br />
 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
   <br />
   
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=iot&logoColor=white" />
 
@@ -55,17 +64,11 @@ I am a passionate technology enthusiast with a deep interest in the intersection
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **RateYourGrader** | A comprehensive web-based system for reviewing university professors and grading. | `PHP` `JS` `MySQL` `HTML` |
-| **Tobacco Harm AI** | A research initiative using Machine Learning to predict health risks in Dhaka hospitals. | `Python` `ML` `AI` |
-| **Network Sims** | Complex network topology configurations and collision domain analysis. | `Cisco Packet Tracer` |
+| **RateYourGrader** | A comprehensive web-based system for reviewing university professors and grading. | `PHP` `JS` `MySQL` |
+| **Hostel Management** | A Windows Forms application for management with a secure MS SQL Server database and optimized backend connections. | `C#` `MSSQL` `.NET` |
+| **CuisineCourier** | An object-oriented application built with Java Swing for managing culinary logistics. | `Java` `OOP` `Swing` |
 
 ---
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostofa-Seum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostofa-Seum&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Languages" />
-</div>
 
 <br/>
 
