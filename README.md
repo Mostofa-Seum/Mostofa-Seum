@@ -65,7 +65,7 @@ I am a passionate technology enthusiast with a deep interest in the intersection
 | :--- | :--- | :--- |
 | **RateYourGrader** | A comprehensive web-based system for reviewing university professors and grading. | `PHP` `JS` `MySQL` |
 | **Hostel Management** | A Windows Forms application for management with a secure MS SQL Server database and optimized backend connections. | `C#` `MSSQL` `.NET` |
-| **CuisineCourier** | An object-oriented application built with Java Swing for managing culinary logistics. | `Java` `OOP` `Swing` |
+| **CuisineCourier** | An object-oriented application built with Java Swing for managing online food delivery system. | `Java` `OOP` `Swing` |
 
 ---
 
