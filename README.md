@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Mostofa%20Seum!&fontSize=70&fontAlignY=40&desc=Web%20Developer%20|%20AI%20Researcher%20|%20Network%20Enthusiast&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Mostofa%20Seum!&fontSize=45&fontAlignY=40&desc=Web%20Developer%20|%20AI%20Researcher%20|%20Network%20Enthusiast&descAlignY=65&descAlign=50" alt="Header" />
 </div>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Web+Applications;Exploring+AI+%26+Machine+Learning;Configuring+Networks;Crafting+Code+with+Passion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Web+Applications;Exploring+AI+%26+Machine+Learning;Configuring+Networks;Crafting+Code+with+Passion" alt="Typing SVG" />
   </a>
 </h3>
 
