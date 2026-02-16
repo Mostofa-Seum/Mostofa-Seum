@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Mostofa%20Seum!&fontSize=45&fontAlignY=40&desc=Web%20Developer%20|%20AI%20Researcher%20|%20Network%20Enthusiast&descAlignY=65&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Mostofa%20Seum!&fontSize=45&fontAlignY=40&desc=CSE%20Student%20|%20Web%20Developer%20&descAlignY=65&descAlign=50" alt="Header" />
 </div>
 
 <h3 align="center">
@@ -20,9 +20,8 @@
 I am a passionate technology enthusiast with a deep interest in the intersection of **Web Development**, **Database Management**, and **Artificial Intelligence**. I love building systems that solve real-world problems, from university grading platforms to predictive health models.
 
 - 🔭 I’m currently working on **RateYourGrader**, a university professor review system.
-- 🌱 I’m currently exploring **Machine Learning & IoT** for thesis research.
 - 🚀 I’m currently exploring **NestJS and .NET Core**.
-- 💬 Ask me about **PHP, Oracle PL/SQL, and Network Topologies**.
+- 🌱 I’m currently exploring **Machine Learning & IoT** for thesis research.
 
 ---
 
@@ -47,12 +46,12 @@ I am a passionate technology enthusiast with a deep interest in the intersection
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
 
   <br />
   
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+
+
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=iot&logoColor=white" />
 
