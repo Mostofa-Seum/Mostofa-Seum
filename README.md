@@ -50,8 +50,6 @@ I am a passionate technology enthusiast with a deep interest in the intersection
 
   <br />
   
-
-
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=iot&logoColor=white" />
 
@@ -75,5 +73,11 @@ I am a passionate technology enthusiast with a deep interest in the intersection
   <h3>Let's Connect!</h3>
   <a href="https://github.com/Mostofa-Seum">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mostofaseum/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/Mostofa.Seum">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
