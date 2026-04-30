@@ -15,8 +15,8 @@
 ### 👨‍💻 About Me
 I am a passionate technology enthusiast with a deep interest in the intersection of **Web Development**, **Database Management**, and **Artificial Intelligence**. I love building systems that solve real-world problems, from university grading platforms to predictive health models.
 
-- 🔭 I’m currently working on a **Micro Internship Hub** based on React, NestJS, Next.js, and PostgreSQL.
-- 🚀 I’m currently exploring **NestJS and .NET Core**.
+- 🔭 I’m currently building a **Micro Internship Hub**, a full-stack platform powered by React, Next.js, NestJS, and PostgreSQL.
+- 🚀 I’m currently exploring **React, NestJS, and .NET Core**.
 - 🌱 I’m currently doing my thesis in **Machine Learning and Computer Vision**.
 
 ---
